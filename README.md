@@ -9,8 +9,8 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/Python-certification-course-by-RURS?style=social)](https://github.com/SoumitroDas/Python-Certification-Course-by-RURS)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/Python-certification-course-by-RURS?style=social)](https://github.com/SoumitroDas/Python-Certification-Course-by-RURS)
+[![GitHub Stars](https://img.shields.io/github/stars/SoumitroDas/Python-Certification-Course-by-RURS?style=social)](https://github.com/SoumitroDas/Python-Certification-Course-by-RURS)
+[![GitHub Forks](https://img.shields.io/github/forks/SoumitroDas/Python-Certification-Course-by-RURS?style=social)](https://github.com/SoumitroDas/Python-Certification-Course-by-RURS)
 
 **📚 My Personal Journey Through Python & Data Analysis**
 
