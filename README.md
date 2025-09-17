@@ -1,19 +1,21 @@
-# 🐍 Python and Data Analysis for RURS
+# 🐍 Python and Data Analysis Course by RURS
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/Python-certification-course-by-RURS?style=social)](https://github.com/yourusername/Python-certification-course-by-RURS)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/Python-certification-course-by-RURS?style=social)](https://github.com/yourusername/Python-certification-course-by-RURS)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/Python-certification-course-by-RURS?style=social)](https://github.com/SoumitroDas/Python-Certification-Course-by-RURS)
+[![GitHub Forks](https://img.shields.io/github/forks/yourusername/Python-certification-course-by-RURS?style=social)](https://github.com/SoumitroDas/Python-Certification-Course-by-RURS)
 
 **📚 My Personal Journey Through Python & Data Analysis**
 
 *Rajshahi University Research Society (RURS) Certification Course*
+
 
 ---
 
@@ -85,7 +87,7 @@ graph LR
 - Data Cleaning & Preprocessing
 - Statistical Analysis
 - Data Aggregation & Grouping
-- Time Series Basics
+- NumPy Array Operations
 
 </td>
 </tr>
@@ -96,18 +98,18 @@ graph LR
 - Matplotlib Foundations
 - Seaborn Statistical Plots
 - Custom Chart Creation
-- Interactive Visualizations
-- Dashboard Basics
+- Advanced Plot Customization
+- Visual Storytelling
 
 </td>
 <td width="50%">
 
-**🔍 Exploratory Data Analysis**
-- Dataset Profiling
-- Pattern Recognition
-- Outlier Detection
-- Correlation Analysis
-- Insight Generation
+**🤖 Machine Learning**
+- Scikit-learn Fundamentals
+- Model Building & Training
+- Supervised Learning Algorithms
+- Model Evaluation Metrics
+- Practical ML Applications
 
 </td>
 </tr>
@@ -124,52 +126,18 @@ graph LR
 │   ├── 🎯 slides/
 │   └── 💡 examples/
 ├── 📝 shared_notes/             # Instructor resources
-├── 🧠 my_notes/                 # Personal study notes
-├── 🏃‍♂️ warmups/                   # Practice exercises
+├── 🏃‍♂️ warmups(Mini Projects)/   # Practice exercises
 ├── 📅 week1/                    # Python Basics
 │   ├── 🎓 lectures/
 │   ├── 📋 assignments/
 │   ├── 📊 exam/
-│   └── 💻 my_solutions/
+│   └── 🧠 my_notes/             # Personal study notes
 ├── 📅 week2/                    # Data Structures & Pandas
 ├── 📅 week3/                    # Data Visualization
 ├── 📅 week4/                    # EDA & Analysis
-└── 🚀 projects/                 # Capstone projects
-    ├── 📈 mini_projects/
-    └── 🎯 final_project/
+
 ```
 
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🏆 Highlight Projects
-
-</div>
-
-| Project | Description | Technologies | Status |
-|---------|-------------|--------------|---------|
-| 📊 **Sales Data Analysis** | Complete EDA on retail dataset | `Pandas` `Matplotlib` `Seaborn` | ✅ Complete |
-| 🏠 **Housing Price Prediction** | Statistical analysis & visualization | `NumPy` `Pandas` `Plotly` | 🔄 In Progress |
-| 📈 **Stock Market Trends** | Time series analysis project | `Pandas` `Matplotlib` `Yahoo Finance` | 📋 Planned |
-
----
-
-## 📊 My Learning Stats
-
-<div align="center">
-
-![Learning Progress](https://progress-bar.dev/85/?title=Course%20Completion&width=400&color=babaca)
-
-![Python Skills](https://progress-bar.dev/90/?title=Python%20Fundamentals&width=400&color=4ecdc4)
-
-![Data Analysis](https://progress-bar.dev/80/?title=Data%20Analysis&width=400&color=45b7d1)
-
-![Visualization](https://progress-bar.dev/75/?title=Data%20Visualization&width=400&color=96ceb4)
-
-</div>
 
 ---
 
@@ -198,10 +166,12 @@ graph LR
 
 ### 🎯 Key Breakthroughs
 
-- **Week 1:** 🧠 Grasped the logic of programming 
-- **Week 2:** 📊 Fell in love with data manipulation
-- **Week 3:** 🎨 Discovered the art of storytelling through visuals
-- **Week 4:** 🔍 Learned to ask the right questions from data
+- **Week 1:** 🧠 Mastered Python basics, control structures, and fundamental programming concepts
+- **Week 2:** 🏗️ Explored Object-Oriented Programming (OOP) and dove deep into Pandas fundamentals
+- **Week 3:** 📊 Advanced Pandas techniques, NumPy array operations, and Matplotlib visualization foundations
+- **Week 4:** 🎨 Advanced Matplotlib customization, Seaborn statistical plots, and hands-on machine learning with Scikit-learn
+
+*Throughout the journey: Multiple assignments, exams, and mini-projects that served as warm-ups and guided training experiences.*
 
 ---
 
@@ -249,8 +219,8 @@ gantt
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumitro-kumar-das)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdasshuvro@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
@@ -272,7 +242,7 @@ If this repository helped you in your Python learning journey:
 
 **📚 Course Credits:** Rajshahi University Research Society (RURS)
 
-**📝 Instructor:** Roni Mahbub 
+**👨‍🏫 Course Instructor:** Roni Mahbub
 
 **📝 Repository Maintained By:** Soumitro Kumar Das
 
@@ -283,6 +253,6 @@ If this repository helped you in your Python learning journey:
 
 **⚡ "Data is the new oil, Python is the refinery!"**
 
-[![Made with ❤️ in Bangladesh](https://img.shields.io/badge/Made%20with%20❤️%20in-Bangladesh-green?style=flat-square)](https://github.com/yourusername)
+[![Made with ❤️ in Bangladesh](https://img.shields.io/badge/Made%20with%20❤️%20in-Bangladesh-green?style=flat-square)](https://github.com/soumitro-das)
 
 </div>
