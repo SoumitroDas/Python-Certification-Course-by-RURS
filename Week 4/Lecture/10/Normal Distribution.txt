@@ -1,0 +1,9 @@
+🔹 Normal Distribution মানে কী?
+
+Normal distribution হলো এক ধরনের probability distribution যেটা bell-shaped curve তৈরি করে।
+
+মাঝখানে মানগুলো বেশি থাকে।
+
+ধীরে ধীরে ডান-বাম দিকে কমে যায়।
+
+মধ্যবিন্দু (mean), মধ্যমা (median) এবং মোড এক জায়গায় থাকে।
